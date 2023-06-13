@@ -90,7 +90,7 @@ function Main() {
               <FormGroup>
                 <Label htmlFor="email">Email</Label>
                 <Input
-                  type="text"
+                  type="email"
                   name="email"
                   required
                   onChange={(e) => setEmail(e.target.value)}
