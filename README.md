@@ -18,8 +18,6 @@ O desafio consiste em uma newsletter para ficar por dentro de todas as novidades
 
 ![Tecnologias](https://skillicons.dev/icons?i=html,css,ts,react,tailwind,vscode)
 
-<br>
-
 # 👨‍🎓 Autor
 
 ### [Gustavo Henrique](https://github.com/byguhdev/)
