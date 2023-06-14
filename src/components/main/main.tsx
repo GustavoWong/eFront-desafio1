@@ -70,7 +70,7 @@ function Main() {
           <section>
             <Form action="POST" onSubmit={Valida}>
               <span className="text-darkGray">
-                Preencha os campos para receber as notícias <br /> sobre
+                Preencha os campos para receber as notícias sobre
                 programação
               </span>
 
