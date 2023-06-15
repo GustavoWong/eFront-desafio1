@@ -20,4 +20,4 @@ O desafio consiste em uma newsletter para ficar por dentro de todas as novidades
 
 # 👨‍🎓 Autor
 
-### [Gustavo Henrique](https://github.com/byguhdev/)
+[Gustavo Henrique](https://github.com/byguhdev/)
