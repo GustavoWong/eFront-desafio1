@@ -3,6 +3,11 @@ import styled from "styled-components";
 export const Container = styled.main`
   color: #fff;
   height: 88vh;
+
+  section:first-of-type {
+  height: 470px;
+}
+
 `;
 
 export const Form = styled.form`

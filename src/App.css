@@ -5,3 +5,17 @@ body{
 dialog::backdrop{
   background-color: rgb(0 0 0 / .5);
 }
+
+@keyframes dialogAppear {
+  from {
+    transform: scale(0.5);
+  }
+
+  to {
+    transform: scale(1);
+  }
+}
+
+dialog {
+  animation: dialogAppear 0.2s ease-out;
+}
