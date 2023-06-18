@@ -57,7 +57,7 @@ function Main() {
   return (
     <>
       <Container className="py-4 pb-12 px-5 sm:px-20">
-        <section className="flex flex-col justify-center items-center lg:px-56 h-full gap-8">
+        <section className="flex flex-col justify-center items-center lg:px-56 gap-8">
           <section className="text-center mb-2">
             <h1 className=" sm:text-5xl text-3xl">
               Seja bem-vindo a <br /> sua melhor newsletter
